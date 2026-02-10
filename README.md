@@ -121,21 +121,12 @@ I build fast, ship faster, and care deeply about craft. Whether it's a **60FPS S
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatimhtm&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=CDFF00&icon_color=CDFF00&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimhtm&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=CDFF00&text_color=c9d1d9" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://hatimelhassak.is-a.dev"><strong>🌐 hatimelhassak.is-a.dev</strong></a> · 
-  <a href="https://www.linkedin.com/in/hatim-elhassak/">LinkedIn</a> · 
-  <a href="mailto:hatimelhassak.official@gmail.com">Email</a>
+  <a href="https://hatimelhassak.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=CDFF00" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hatim-elhassak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hatimelhassak.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <sub>💡 <em>Open to freelance, contract work, and full-time roles. Average response time: < 2 hours.</em></sub>
+  <sub>💡 <em>Open to freelance, contract work, and full-time roles. Average response time: &lt; 2 hours.</em></sub>
 </p>
