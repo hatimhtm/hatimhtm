@@ -58,8 +58,12 @@ I build fast, ship faster, and care deeply about craft. Whether it's a **fully m
 ### 📊 Developer Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatimhtm&show_icons=true&bg_color=000000&title_color=CDFF00&text_color=ffffff&icon_color=CDFF00&border_color=333333&hide_border=true&count_private=true" alt="Hatim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimhtm&layout=compact&bg_color=000000&title_color=CDFF00&text_color=ffffff&border_color=333333&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=hatimhtm&label=PROFILE+VIEWS&color=000000&label_color=000000&style=for-the-badge&logo=github&logoColor=CDFF00" alt="Profile Views" height="45" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hatimhtm&show_icons=true&bg_color=000000&title_color=CDFF00&text_color=ffffff&icon_color=CDFF00&border_color=333333&hide_border=true&count_private=true&cache_seconds=1800" alt="Hatim's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimhtm&layout=compact&bg_color=000000&title_color=CDFF00&text_color=ffffff&border_color=333333&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
