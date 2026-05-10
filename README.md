@@ -1,159 +1,233 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=CDFF00&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Hatim+%F0%9F%91%8B;Full-Stack+Engineer;AI+%2F+ML+Builder;iOS+Developer" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <a href="https://hatimelhassak.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=CDFF00" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hatim-elhassak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hatimelhassak.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-banner-dark.svg" />
+    <img src="assets/hero-banner.svg" alt="Hatim El Hassak — Full-Stack Engineer" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <em>Full-stack engineer shipping production-ready products in hours — from native iOS apps to AI-powered agents.</em><br/>
-  <strong>Based in the Philippines · Building worldwide · Open for opportunities</strong>
+  <a href="https://hatimelhassak.is-a.dev"><img src="https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=vercel&logoColor=CCFF00" alt="Portfolio" /></a>
+  <a href="https://cal.com/hatimelhassak/engineering-discovery"><img src="https://img.shields.io/badge/BOOK_A_CALL-CCFF00?style=for-the-badge&logo=googlecalendar&logoColor=1A1A1A" alt="Book a call" /></a>
+  <a href="https://www.linkedin.com/in/hatim-elhassak/"><img src="https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=CCFF00" alt="LinkedIn" /></a>
+  <a href="mailto:hatimelhassak.official@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A1A1A?style=for-the-badge&logo=gmail&logoColor=CCFF00" alt="Email" /></a>
 </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="160" align="center">
+        <img src="assets/headshot.jpg" width="140" height="140" alt="Hatim El Hassak" />
+      </td>
+      <td width="600" align="left">
+        <em>Full-stack engineer. I build iOS apps, AI pipelines, and production web tools end-to-end — from brief to App Store, or brief to Vercel, on tight timelines.</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### ⚡ What I Do
-
-I build fast, ship faster, and care deeply about craft. Whether it's a **fully monetized iOS MVP**, an **AI meeting assistant**, or a **luxury portfolio with hand-built components** — I engineer things that look and feel premium from day one. I handle the entire pipeline from UI/UX down to backend architecture and App Store deployment.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & Mobile**
-
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=blue)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-
-**Backend, AI & Monetization**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-F55C38?style=for-the-badge&logo=revenuecat&logoColor=white)
-
-**DevOps**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-### 📊 Developer Analytics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hatimhtm&label=PROFILE+VIEWS&color=000000&label_color=000000&style=for-the-badge&logo=github&logoColor=CDFF00" alt="Profile Views" height="45" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatimhtm&show_icons=true&bg_color=000000&title_color=CDFF00&text_color=ffffff&icon_color=CDFF00&border_color=333333&hide_border=true&count_private=true&cache_seconds=1800" alt="Hatim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimhtm&layout=compact&bg_color=000000&title_color=CDFF00&text_color=ffffff&border_color=333333&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hatimhtm&bg_color=000000&color=ffffff&line=CDFF00&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-### 📌 Featured Projects
+### `/// LIVE ON THE APP STORE`
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🧘‍♀️ GoPilates (App Store)</h3>
+    <td width="50%" align="center">
+      <a href="https://apps.apple.com/ph/app/gopilates-app/id6760300479">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/59/44/db594473-19a4-891a-e79c-4b08458c6b80/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg" width="120" height="120" alt="GoPilates" />
+      </a>
+      <h3 align="center">GoPilates</h3>
+      <p align="center"><em>Virtual Pilates studio — guided sessions, paywalled premium content, full subscription pipeline.</em></p>
+      <p align="center"><code>SwiftUI</code> · <code>StoreKit 2</code> · <code>RevenueCat</code></p>
       <p align="center">
-        <a href="https://github.com/hatimhtm">
-          <img src="https://img.shields.io/badge/View_Project-CDFF00?style=for-the-badge&logo=apple&logoColor=black" />
+        <a href="https://apps.apple.com/ph/app/gopilates-app/id6760300479">
+          <img src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download GoPilates"/>
         </a>
       </p>
-      <p align="center"><em>Full-stack iOS MVP published to the App Store. Engineered a robust paywall system using StoreKit 2 and RevenueCat for monthly/annual recurring subscriptions.</em></p>
-      <p align="center"><code>SwiftUI</code> <code>RevenueCat</code> <code>StoreKit 2</code> <code>API Integration</code></p>
     </td>
-    <td width="50%">
-      <h3 align="center">🏗️ Luxury Portfolio</h3>
+    <td width="50%" align="center">
+      <a href="https://apps.apple.com/ph/app/tryit/id6761598749">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/f2/bf/93f2bfcf-08ea-8a9a-b3d9-6291650a7d8e/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg" width="120" height="120" alt="TryIt" />
+      </a>
+      <h3 align="center">TryIt</h3>
+      <p align="center"><em>AI virtual try-on. Photograph any garment in-store or online, see it on yourself instantly.</em></p>
+      <p align="center"><code>SwiftUI</code> · <code>AI / CV</code> · <code>StoreKit 2</code></p>
       <p align="center">
-        <a href="https://github.com/hatimhtm/luxury-engineering-portfolio">
-          <img src="https://img.shields.io/badge/View_Repo-CDFF00?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-        <a href="https://hatimelhassak.is-a.dev">
-          <img src="https://img.shields.io/badge/Live_Site-000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <a href="https://apps.apple.com/ph/app/tryit/id6761598749">
+          <img src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download TryIt"/>
         </a>
       </p>
-      <p align="center"><em>Neo-brutalist portfolio with custom design system, ⌘K command palette, 3D interactions, and Framer Motion animations. No templates.</em></p>
-      <p align="center"><code>Next.js 14</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎙️ EchoScribe</h3>
-      <p align="center">
-        <a href="https://github.com/hatimhtm/EchoScribe">
-          <img src="https://img.shields.io/badge/View_Repo-CDFF00?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-      <p align="center"><em>AI-powered meeting assistant — transcribes audio, generates summaries with GPT, and posts structured notes to Slack. Fully automated pipeline.</em></p>
-      <p align="center"><code>Python</code> <code>OpenAI</code> <code>Whisper</code> <code>Slack API</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 AG1 Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/hatimhtm/AG1Dashboard">
-          <img src="https://img.shields.io/badge/View_Repo-CDFF00?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-      <p align="center"><em>iOS 17 health analytics dashboard with 60FPS SwiftUI animations, interactive charts, Dynamic Island, and haptic feedback.</em></p>
-      <p align="center"><code>SwiftUI</code> <code>Swift Charts</code> <code>HealthKit</code> <code>iOS 17</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 Fortress</h3>
-      <p align="center">
-        <a href="https://github.com/hatimhtm/Fortress">
-          <img src="https://img.shields.io/badge/View_Repo-CDFF00?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-      <p align="center"><em>Cryptographically secure password generator with entropy analysis, crack time estimation, passphrase support, and a beautiful Rich CLI.</em></p>
-      <p align="center"><code>Python</code> <code>Typer</code> <code>Rich</code> <code>pytest</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 C Fundamentals</h3>
-      <p align="center">
-        <a href="https://github.com/hatimhtm/c-fundamentals">
-          <img src="https://img.shields.io/badge/View_Repo-CDFF00?style=for-the-badge&logo=github&logoColor=black" />
-        </a>
-      </p>
-      <p align="center"><em>Algorithms & systems programming in C11 — selection sort, Caesar cipher with frequency analysis, and cross-platform system info.</em></p>
-      <p align="center"><code>C11</code> <code>Makefile</code> <code>POSIX</code> <code>GitHub Actions</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
+### `/// SELECTED CASE STUDIES`
+
+> _Private flagship work — described, not linked. Source on request._
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Viral OS</h3>
+      <p align="center"><img src="https://img.shields.io/badge/PRIVATE-OPERATIONAL-CCFF00?style=for-the-badge&labelColor=1A1A1A" /></p>
+      <p align="center"><em>Command center for a B2C app studio. App Store Connect + RevenueCat + TikTok + ad spend, all in one schema. Predicted LTV, cohort retention, anomaly alerts, Gemini AI on every surface — from "Today's Focus" to per-app health scores.</em></p>
+      <p align="center"><code>Next.js 14</code> <code>TypeScript</code> <code>Supabase</code> <code>Gemini AI</code> <code>Sentry</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 J.A.R.V.I.S.</h3>
+      <p align="center"><img src="https://img.shields.io/badge/PRIVATE-SELF_HOSTED-CCFF00?style=for-the-badge&labelColor=1A1A1A" /></p>
+      <p align="center"><em>Self-hosted personal AI assistant. Voice-driven, modular, runs entirely on a 2017 MacBook with $0 of paid APIs — free-tier toolkit only. Dockerized core, custom dashboard, deployment scripts.</em></p>
+      <p align="center"><code>Python</code> <code>Docker</code> <code>FastAPI</code> <code>Free-tier LLMs</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 Lumi</h3>
+      <p align="center"><img src="https://img.shields.io/badge/PRIVATE-IN_DEVELOPMENT-CCFF00?style=for-the-badge&labelColor=1A1A1A" /></p>
+      <p align="center"><em>A private cinema for two. AI-tuned picks across film and TV with collections, watchlists, recap mode, and shareable invitation cards. TMDB + Gemini under the hood.</em></p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>Gemini AI</code> <code>Supabase</code> <code>TMDB</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💼 Freelane</h3>
+      <p align="center"><img src="https://img.shields.io/badge/PRIVATE-IN_DEVELOPMENT-CCFF00?style=for-the-badge&labelColor=1A1A1A" /></p>
+      <p align="center"><em>Freelance studio in a tab. Clients, projects, time, and PDF invoicing — drag-and-drop boards, Recharts dashboards, real-time Supabase backend.</em></p>
+      <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>react-pdf</code> <code>Recharts</code></p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://hatimelhassak.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=CDFF00" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hatim-elhassak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hatimelhassak.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://cal.com/hatimelhassak/engineering-discovery"><img src="https://img.shields.io/badge/REQUEST_A_WALKTHROUGH-1A1A1A?style=for-the-badge&logo=googlecalendar&logoColor=CCFF00" /></a>
+</p>
+
+---
+
+### `/// FEATURED PUBLIC PROJECTS`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏗️ Luxury Engineering Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/hatimhtm/luxury-engineering-portfolio"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
+        <a href="https://hatimelhassak.is-a.dev"><img src="https://img.shields.io/badge/Live_Site-CCFF00?style=for-the-badge&logo=vercel&logoColor=1A1A1A" /></a>
+      </p>
+      <p align="center"><em>Neo-brutalist portfolio — custom design system, ⌘K command palette, 3D interactions, Framer Motion. No templates.</em></p>
+      <p align="center"><code>Next.js 14</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎙️ EchoScribe</h3>
+      <p align="center">
+        <a href="https://github.com/hatimhtm/EchoScribe"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
+      </p>
+      <p align="center"><em>AI meeting assistant — transcribes audio, summarizes with GPT, posts structured notes to Slack. Fully automated pipeline.</em></p>
+      <p align="center"><code>Python</code> <code>OpenAI</code> <code>Whisper</code> <code>Slack API</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 AG1 Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/hatimhtm/AG1Dashboard"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
+      </p>
+      <p align="center"><em>iOS 17 ad analytics dashboard — SwiftUI Charts, Live Activities, Dynamic Island, haptic feedback.</em></p>
+      <p align="center"><code>SwiftUI</code> <code>Swift Charts</code> <code>Live Activities</code> <code>iOS 17</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 Fortress</h3>
+      <p align="center">
+        <a href="https://github.com/hatimhtm/Fortress"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
+      </p>
+      <p align="center"><em>Cryptographically secure password generator with entropy analysis, crack-time estimation, and a Rich CLI.</em></p>
+      <p align="center"><code>Python</code> <code>Typer</code> <code>Rich</code> <code>pytest</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><em>Featured selection — see <a href="https://github.com/hatimhtm?tab=repositories">all repos</a> for the rest.</em></sub>
+</p>
+
+---
+
+### `/// HOW I WORK`
+
+> **Small team, clear loop, real commits.**
+> I work the way a solo founder works: one person in the code, a direct line for questions, and a running build you can click on any time. No Jira theatre, no handoffs, no scope creep wrapped as process.
+
+| `01` | `02` | `03` | `04` |
+|:---:|:---:|:---:|:---:|
+| **BRIEF** | **BUILD** | **SHIP** | **SUPPORT** |
+| 30-minute call. Product, users, constraints, deadline. | Heads-down engineering. Public repo from day one — every commit visible. | Production deploy. Real users. Not a staging demo. | On-call for tweaks and bug fixes after launch. No ghosting. |
+
+---
+
+### `/// TECH STACK`
+
+**Daily**
+&nbsp;
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Comfortable**
+&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F55C38?style=for-the-badge&logo=revenuecat&logoColor=white)
+![StoreKit 2](https://img.shields.io/badge/StoreKit_2-007AFF?style=for-the-badge&logo=apple&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=CCFF00)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### `/// STATS`
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hatimhtm&label=PROFILE+VIEWS&color=1A1A1A&label_color=1A1A1A&style=for-the-badge&logo=github&logoColor=CCFF00" alt="Profile Views" height="42" />
 </p>
 
 <p align="center">
-  <sub>💡 <em>Open to freelance, contract work, and full-time roles. Average response time: &lt; 2 hours.</em></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=hatimhtm&show_icons=true&bg_color=1A1A1A&title_color=CCFF00&text_color=FFFDF5&icon_color=CCFF00&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimhtm&layout=compact&bg_color=1A1A1A&title_color=CCFF00&text_color=FFFDF5&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hatimhtm&bg_color=1A1A1A&color=FFFDF5&line=CCFF00&point=CCFF00&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+### `/// OPEN FOR WORK`
+
+**Available globally · Remote · Replies within a day**
+
+Open to engineering work that ships:
+- **Founding engineer** or early-stage product roles
+- **Contract & freelance** — iOS, web, AI, automation
+- **Paywall & monetization** — StoreKit 2, RevenueCat, Stripe, subscription design
+- **AI pipelines** — OpenAI, Gemini, Whisper, embeddings, agents
+- **MVP builds** — brief to App Store, brief to Vercel
+- **Indie collabs · agency partnerships · technical advisory**
+
+> _If it has users and a deadline, I want in._
+
+<p align="center">
+  <a href="https://cal.com/hatimelhassak/engineering-discovery"><img src="https://img.shields.io/badge/BOOK_A_30_MIN_DISCOVERY_CALL-CCFF00?style=for-the-badge&logo=googlecalendar&logoColor=1A1A1A" alt="Book a 30-minute discovery call" /></a>
+</p>
+
+---
+
+<p align="center">
+  <code>///&nbsp;&nbsp;OPEN FOR NEW WORK&nbsp;&nbsp;///&nbsp;&nbsp;CONTRACT &amp; FREELANCE&nbsp;&nbsp;///&nbsp;&nbsp;REMOTE WORLDWIDE&nbsp;&nbsp;///&nbsp;&nbsp;REPLIES WITHIN A DAY&nbsp;&nbsp;///</code>
 </p>
