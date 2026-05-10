@@ -11,18 +11,18 @@
   <text class="m" x="20" y="32" font-size="13" letter-spacing="4" fill="#FFFDF5">/// GITHUB STATS</text>
   <line x1="20" y1="46" x2="460" y2="46" stroke="#FFFDF5" stroke-opacity="0.15" stroke-width="1"/>
 
-  <text class="h" x="60"  y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">551</text>
+  <text class="h" x="60"  y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">72</text>
   <text class="m" x="60"  y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">COMMITS</text>
 
-  <text class="h" x="180" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">423</text>
+  <text class="h" x="180" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">189</text>
   <text class="m" x="180" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">PRS</text>
 
-  <text class="h" x="300" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">33</text>
+  <text class="h" x="300" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">13</text>
   <text class="m" x="300" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">REPOS</text>
 
-  <text class="h" x="420" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">48</text>
+  <text class="h" x="420" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">28</text>
   <text class="m" x="420" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">STARS</text>
 
   <line x1="20" y1="165" x2="460" y2="165" stroke="#FFFDF5" stroke-opacity="0.15" stroke-width="1"/>
-  <text class="m" x="20" y="184" font-size="10" letter-spacing="3" fill="#FFFDF5" fill-opacity="0.55">/// 22 REPOS CONTRIBUTED TO · 2 APPS LIVE ON APP STORE</text>
+  <text class="m" x="20" y="184" font-size="10" letter-spacing="3" fill="#FFFDF5" fill-opacity="0.55">/// 10 REPOS CONTRIBUTED TO · 2 APPS LIVE ON APP STORE</text>
 </svg>
