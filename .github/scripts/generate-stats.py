@@ -65,7 +65,19 @@ def fetch_stats() -> dict:
     }
 
 
+def number_font_size(n: int) -> int:
+    """Shrink the number's font-size as digits grow, so it never overflows the
+    ~110 px column."""
+    digits = len(str(n))
+    return {1: 46, 2: 46, 3: 46, 4: 38, 5: 30}.get(digits, 24)
+
+
 def stats_svg(s: dict) -> str:
+    fs_c = number_font_size(s["commits"])
+    fs_p = number_font_size(s["prs"])
+    fs_r = number_font_size(s["repo_count"])
+    fs_s = number_font_size(s["stars"])
+    footer = f"/// {s['contributed_to']} REPOS CONTRIBUTED TO · {APPS_LIVE} APPS LIVE ON APP STORE"
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" role="img" aria-label="GitHub Stats">
   <defs>
@@ -79,20 +91,20 @@ def stats_svg(s: dict) -> str:
   <text class="m" x="20" y="32" font-size="13" letter-spacing="4" fill="#FFFDF5">/// GITHUB STATS</text>
   <line x1="20" y1="46" x2="460" y2="46" stroke="#FFFDF5" stroke-opacity="0.15" stroke-width="1"/>
 
-  <text class="h" x="60"  y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">{s['commits']}</text>
+  <text class="h" x="60"  y="115" font-size="{fs_c}" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">{s['commits']}</text>
   <text class="m" x="60"  y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">COMMITS</text>
 
-  <text class="h" x="180" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">{s['prs']}</text>
+  <text class="h" x="180" y="115" font-size="{fs_p}" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">{s['prs']}</text>
   <text class="m" x="180" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">PRS</text>
 
-  <text class="h" x="300" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">{s['repo_count']}</text>
+  <text class="h" x="300" y="115" font-size="{fs_r}" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">{s['repo_count']}</text>
   <text class="m" x="300" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">REPOS</text>
 
-  <text class="h" x="420" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">{s['stars']}</text>
+  <text class="h" x="420" y="115" font-size="{fs_s}" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">{s['stars']}</text>
   <text class="m" x="420" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">STARS</text>
 
   <line x1="20" y1="165" x2="460" y2="165" stroke="#FFFDF5" stroke-opacity="0.15" stroke-width="1"/>
-  <text class="m" x="20" y="184" font-size="10" letter-spacing="3" fill="#FFFDF5" fill-opacity="0.55">/// {s['contributed_to']} REPOS CONTRIBUTED TO · {APPS_LIVE} APPS LIVE ON APP STORE</text>
+  <text class="m" x="20" y="184" font-size="9" letter-spacing="2" fill="#FFFDF5" fill-opacity="0.55" textLength="440" lengthAdjust="spacingAndGlyphs">{footer}</text>
 </svg>
 """
 
@@ -101,22 +113,18 @@ def languages_svg(langs: list[tuple[str, int]]) -> str:
     if not langs:
         return ""
     total = sum(c for _, c in langs)
-    y_text = [68, 100, 132, 164, 196]
-    y_bar = [74, 106, 138, 170]
+    y_text = [64, 94, 124, 154, 184]
+    y_bar = [70, 100, 130, 160, 190]
     rows: list[str] = []
     for i, (name, count) in enumerate(langs[:5]):
         pct = count / total * 100
-        opacity = ' fill-opacity="0.7"' if i == 4 else ""
+        bar_w = max(1, int(440 * count / total))
         rows.append(
-            f'  <text class="m" x="20"  y="{y_text[i]}" font-size="11" letter-spacing="2" fill="#FFFDF5"{opacity}>{name.upper()}</text>\n'
-            f'  <text class="m" x="460" y="{y_text[i]}" font-size="11" letter-spacing="2" fill="#CCFF00"{opacity} text-anchor="end">{pct:.1f}%</text>'
+            f'  <text class="m" x="20"  y="{y_text[i]}" font-size="11" letter-spacing="2" fill="#FFFDF5">{name.upper()}</text>\n'
+            f'  <text class="m" x="460" y="{y_text[i]}" font-size="11" letter-spacing="2" fill="#CCFF00" text-anchor="end">{pct:.1f}%</text>\n'
+            f'  <rect x="20" y="{y_bar[i]}" width="440" height="6" fill="#FFFDF5" fill-opacity="0.12"/>\n'
+            f'  <rect x="20" y="{y_bar[i]}" width="{bar_w}" height="6" fill="#CCFF00"/>'
         )
-        if i < 4:
-            bar_w = max(1, int(440 * count / total))
-            rows.append(
-                f'  <rect x="20" y="{y_bar[i]}" width="440" height="6" fill="#FFFDF5" fill-opacity="0.12"/>\n'
-                f'  <rect x="20" y="{y_bar[i]}" width="{bar_w}" height="6" fill="#CCFF00"/>'
-            )
     body = "\n".join(rows)
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" role="img" aria-label="Top Languages">
