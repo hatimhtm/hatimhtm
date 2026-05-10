@@ -21,7 +21,9 @@ jobs:
 
       - name: Generate stats SVGs
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # User-scoped token — STATS_TOKEN sees private repos too; falls back to
+          # GITHUB_TOKEN (public only) if the secret is missing.
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/generate-stats.py
 
       - name: Commit if changed
