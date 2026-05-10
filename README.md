@@ -211,8 +211,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatimhtm&show_icons=true&bg_color=1A1A1A&title_color=CCFF00&text_color=FFFDF5&icon_color=CCFF00&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatimhtm&layout=compact&bg_color=1A1A1A&title_color=CCFF00&text_color=FFFDF5&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
+  <img src="assets/stats-card.svg" alt="GitHub Stats" width="48%" />
+  <img src="assets/languages-card.svg" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">

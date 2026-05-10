@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" role="img" aria-label="Top Languages">
+  <defs>
+    <style>
+      .h { font-family: 'Helvetica Neue', 'Arial Black', Helvetica, Arial, sans-serif; font-weight: 900; }
+      .m { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace; font-weight: 700; }
+    </style>
+  </defs>
+  <rect width="480" height="200" fill="#1A1A1A"/>
+
+  <text class="m" x="20" y="32" font-size="13" letter-spacing="4" fill="#FFFDF5">/// TOP LANGUAGES</text>
+  <line x1="20" y1="46" x2="460" y2="46" stroke="#FFFDF5" stroke-opacity="0.15" stroke-width="1"/>
+
+  <!-- TypeScript 40.7% -->
+  <text class="m" x="20"  y="68" font-size="11" letter-spacing="2" fill="#FFFDF5">TYPESCRIPT</text>
+  <text class="m" x="460" y="68" font-size="11" letter-spacing="2" fill="#CCFF00" text-anchor="end">40.7%</text>
+  <rect x="20" y="74" width="440" height="6" fill="#FFFDF5" fill-opacity="0.12"/>
+  <rect x="20" y="74" width="179" height="6" fill="#CCFF00"/>
+
+  <!-- C 25.9% -->
+  <text class="m" x="20"  y="100" font-size="11" letter-spacing="2" fill="#FFFDF5">C</text>
+  <text class="m" x="460" y="100" font-size="11" letter-spacing="2" fill="#CCFF00" text-anchor="end">25.9%</text>
+  <rect x="20" y="106" width="440" height="6" fill="#FFFDF5" fill-opacity="0.12"/>
+  <rect x="20" y="106" width="114" height="6" fill="#CCFF00"/>
+
+  <!-- Swift 14.8% -->
+  <text class="m" x="20"  y="132" font-size="11" letter-spacing="2" fill="#FFFDF5">SWIFT</text>
+  <text class="m" x="460" y="132" font-size="11" letter-spacing="2" fill="#CCFF00" text-anchor="end">14.8%</text>
+  <rect x="20" y="138" width="440" height="6" fill="#FFFDF5" fill-opacity="0.12"/>
+  <rect x="20" y="138" width="65" height="6" fill="#CCFF00"/>
+
+  <!-- Python 11.1% -->
+  <text class="m" x="20"  y="164" font-size="11" letter-spacing="2" fill="#FFFDF5">PYTHON</text>
+  <text class="m" x="460" y="164" font-size="11" letter-spacing="2" fill="#CCFF00" text-anchor="end">11.1%</text>
+  <rect x="20" y="170" width="440" height="6" fill="#FFFDF5" fill-opacity="0.12"/>
+  <rect x="20" y="170" width="49" height="6" fill="#CCFF00"/>
+
+  <!-- JavaScript 7.4% -->
+  <text class="m" x="20"  y="196" font-size="11" letter-spacing="2" fill="#FFFDF5" fill-opacity="0.7">JAVASCRIPT</text>
+  <text class="m" x="460" y="196" font-size="11" letter-spacing="2" fill="#CCFF00" fill-opacity="0.7" text-anchor="end">7.4%</text>
+</svg>
