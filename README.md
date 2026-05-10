@@ -140,11 +140,11 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 AG1 Dashboard</h3>
+      <h3 align="center">📊 AdPulse</h3>
       <p align="center">
-        <a href="https://github.com/hatimhtm/AG1Dashboard"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
+        <a href="https://github.com/hatimhtm/adpulse-ios"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
       </p>
-      <p align="center"><em>iOS 17 ad analytics dashboard — SwiftUI Charts, Live Activities, Dynamic Island, haptic feedback.</em></p>
+      <p align="center"><em>iOS 17 creative analytics dashboard — Swift Charts, Live Activities, Dynamic Island, haptic feedback. Built as a take-home for an iOS engineer interview.</em></p>
       <p align="center"><code>SwiftUI</code> <code>Swift Charts</code> <code>Live Activities</code> <code>iOS 17</code></p>
     </td>
     <td width="50%">
