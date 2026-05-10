@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://apps.apple.com/ph/app/gopilates-app/id6760300479">
         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/59/44/db594473-19a4-891a-e79c-4b08458c6b80/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg" width="120" height="120" alt="GoPilates" />
       </a>
@@ -43,8 +43,13 @@
           <img src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download GoPilates"/>
         </a>
       </p>
+      <p align="center">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/66/5d/1c665df1-4b0a-ba4f-fdb9-7aa126e4aee0/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-03-10_at_12.45.02.png/300x650bb.jpg" width="110" alt="GoPilates onboarding" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/59/8b/b7598b27-e482-e9b6-7263-6acbe072ef3b/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-03-10_at_12.45.30.png/300x650bb.jpg" width="110" alt="GoPilates session" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/27/6b/cf276be4-f896-4c9c-3941-3dc06ea5a595/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-03-10_at_11.46.10.png/300x650bb.jpg" width="110" alt="GoPilates paywall" />
+      </p>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://apps.apple.com/ph/app/tryit/id6761598749">
         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/f2/bf/93f2bfcf-08ea-8a9a-b3d9-6291650a7d8e/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg" width="120" height="120" alt="TryIt" />
       </a>
@@ -55,6 +60,11 @@
         <a href="https://apps.apple.com/ph/app/tryit/id6761598749">
           <img src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download TryIt"/>
         </a>
+      </p>
+      <p align="center">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/9a/e1/189ae14a-4084-a856-b809-df2d4b59aae6/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-04-03_at_13.11.04.png/300x650bb.jpg" width="110" alt="TryIt home" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/c8/dc/3dc8dc72-89c0-0d88-6678-8719049ecc58/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-04-03_at_13.20.55.png/300x650bb.jpg" width="110" alt="TryIt try-on" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/5a/2e/715a2e9c-2b41-7776-0de9-62ec1c0bd806/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-04-03_at_13.14.44.png/300x650bb.jpg" width="110" alt="TryIt result" />
       </p>
     </td>
   </tr>
@@ -108,6 +118,9 @@
 <table>
   <tr>
     <td width="50%">
+      <p align="center">
+        <a href="https://hatimelhassak.is-a.dev"><img src="assets/portfolio-screenshot.png" width="100%" alt="Luxury Engineering Portfolio — live screenshot" /></a>
+      </p>
       <h3 align="center">🏗️ Luxury Engineering Portfolio</h3>
       <p align="center">
         <a href="https://github.com/hatimhtm/luxury-engineering-portfolio"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
