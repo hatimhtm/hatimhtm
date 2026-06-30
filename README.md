@@ -44,9 +44,9 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/66/5d/1c665df1-4b0a-ba4f-fdb9-7aa126e4aee0/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-03-10_at_12.45.02.png/300x650bb.jpg" width="110" alt="GoPilates onboarding" />
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/59/8b/b7598b27-e482-e9b6-7263-6acbe072ef3b/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-03-10_at_12.45.30.png/300x650bb.jpg" width="110" alt="GoPilates session" />
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/27/6b/cf276be4-f896-4c9c-3941-3dc06ea5a595/Simulator_Screenshot_-_iPhone_15_Pro_-_2026-03-10_at_11.46.10.png/300x650bb.jpg" width="110" alt="GoPilates paywall" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/56/5c/2d565c53-ef1e-232e-faaf-f730a0b4d4b4/Home.png/300x650bb.jpg" width="110" alt="GoPilates" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/5d/8a/af5d8ab9-f078-3dbd-1e14-2287b7b7decf/Home-1.png/300x650bb.jpg" width="110" alt="GoPilates" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/de/c0/e6dec00e-d600-07ba-9741-554679b3d2a5/Home-2.png/300x650bb.jpg" width="110" alt="GoPilates" />
       </p>
     </td>
     <td width="50%" align="center" valign="top">
