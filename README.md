@@ -33,7 +33,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://apps.apple.com/ph/app/gopilates-app/id6760300479">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/59/44/db594473-19a4-891a-e79c-4b08458c6b80/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg" width="120" height="120" alt="GoPilates" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/1a/a1/aa1aa1a4-c7f0-13ac-060e-c0702d9ba3d7/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg" width="120" height="120" alt="GoPilates" />
       </a>
       <h3 align="center">GoPilates</h3>
       <p align="center"><em>Virtual Pilates studio — guided sessions, paywalled premium content, full subscription pipeline.</em></p>
@@ -51,7 +51,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://apps.apple.com/ph/app/tryit/id6761598749">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/f2/bf/93f2bfcf-08ea-8a9a-b3d9-6291650a7d8e/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg" width="120" height="120" alt="TryIt" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/d3/01/ecd30194-484b-1216-0800-c4c60f5525fd/AppIcon-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg" width="120" height="120" alt="TryIt" />
       </a>
       <h3 align="center">TryIt</h3>
       <p align="center"><em>AI virtual try-on. Photograph any garment in-store or online, see it on yourself instantly.</em></p>
@@ -130,22 +130,22 @@
       <p align="center"><code>Next.js 14</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🎙️ EchoScribe</h3>
+      <h3 align="center">🎯 LeadSniper</h3>
       <p align="center">
-        <a href="https://github.com/hatimhtm/EchoScribe"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
+        <a href="https://github.com/hatimhtm/LeadSniper"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
       </p>
-      <p align="center"><em>AI meeting assistant — transcribes audio, summarizes with GPT, posts structured notes to Slack. Fully automated pipeline.</em></p>
-      <p align="center"><code>Python</code> <code>OpenAI</code> <code>Whisper</code> <code>Slack API</code></p>
+      <p align="center"><em>AI lead-generation engine — scrapes Google Places, crawls sites with Playwright, scores leads across 23 factors, drafts outreach with Gemini. Real-time Next.js dashboard on Supabase.</em></p>
+      <p align="center"><code>Next.js 14</code> <code>TypeScript</code> <code>Supabase</code> <code>Playwright</code> <code>Gemini</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 AdPulse</h3>
+      <h3 align="center">💬 Relay</h3>
       <p align="center">
-        <a href="https://github.com/hatimhtm/adpulse-ios"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
+        <a href="https://github.com/hatimhtm/Relay"><img src="https://img.shields.io/badge/Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
       </p>
-      <p align="center"><em>iOS 17 creative analytics dashboard — Swift Charts, Live Activities, Dynamic Island, haptic feedback. Built as a take-home for an iOS engineer interview.</em></p>
-      <p align="center"><code>SwiftUI</code> <code>Swift Charts</code> <code>Live Activities</code> <code>iOS 17</code></p>
+      <p align="center"><em>Premium native macOS client for Facebook Messenger — SwiftUI + Liquid Glass over a Go backend speaking Meta's real protocol. Universal binary, on-device translation, full local history.</em></p>
+      <p align="center"><code>SwiftUI</code> <code>Liquid Glass</code> <code>Go</code> <code>macOS 13+</code></p>
     </td>
     <td width="50%">
       <h3 align="center">🔐 Fortress</h3>
