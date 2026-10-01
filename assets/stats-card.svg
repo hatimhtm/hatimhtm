@@ -1,28 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" role="img" aria-label="GitHub Stats">
-  <defs>
-    <style>
-      .h { font-family: 'Helvetica Neue', 'Arial Black', Helvetica, Arial, sans-serif; font-weight: 900; }
-      .m { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace; font-weight: 700; }
-    </style>
-  </defs>
-  <rect width="480" height="200" fill="#1A1A1A"/>
-
-  <text class="m" x="20" y="32" font-size="13" letter-spacing="4" fill="#FFFDF5">/// GITHUB STATS</text>
-  <line x1="20" y1="46" x2="460" y2="46" stroke="#FFFDF5" stroke-opacity="0.15" stroke-width="1"/>
-
-  <text class="h" x="60"  y="115" font-size="38" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">1228</text>
-  <text class="m" x="60"  y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">COMMITS</text>
-
-  <text class="h" x="180" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">299</text>
-  <text class="m" x="180" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">PRS</text>
-
-  <text class="h" x="300" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">39</text>
-  <text class="m" x="300" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">REPOS</text>
-
-  <text class="h" x="420" y="115" font-size="46" letter-spacing="-2" fill="#CCFF00" text-anchor="middle">53</text>
-  <text class="m" x="420" y="138" font-size="10" letter-spacing="3"  fill="#FFFDF5" text-anchor="middle">STARS</text>
-
-  <line x1="20" y1="165" x2="460" y2="165" stroke="#FFFDF5" stroke-opacity="0.15" stroke-width="1"/>
-  <text class="m" x="20" y="184" font-size="9" letter-spacing="2" fill="#FFFDF5" fill-opacity="0.55" textLength="440" lengthAdjust="spacingAndGlyphs">/// 35 REPOS CONTRIBUTED TO · 2 APPS LIVE ON APP STORE</text>
+  <defs><style>text { font-family: Satoshi,'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif; }</style></defs>
+  <rect width="480" height="200" rx="20" fill="#14151A"/>
+  <rect x="0.5" y="0.5" width="479" height="199" rx="19.5" fill="none" stroke="#FFFFFF" stroke-opacity=".10"/>
+  <circle cx="26" cy="27" r="3.5" fill="#7E94F1"/>
+  <text x="38" y="32" font-size="12" font-weight="700" letter-spacing="2.4" fill="#9A9CA3">GITHUB STATS</text>
+  <line x1="24" y1="46" x2="456" y2="46" stroke="#FFFFFF" stroke-opacity=".10"/>
+  <text x="66" y="114" text-anchor="middle" font-size="40" font-weight="700" letter-spacing="-1.2" fill="#ECEBE7">1228</text>
+  <text x="66" y="138" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="2" fill="#9A9CA3">COMMITS</text>
+  <text x="186" y="114" text-anchor="middle" font-size="40" font-weight="700" letter-spacing="-1.2" fill="#ECEBE7">299</text>
+  <text x="186" y="138" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="2" fill="#9A9CA3">PRS</text>
+  <text x="306" y="114" text-anchor="middle" font-size="40" font-weight="700" letter-spacing="-1.2" fill="#ECEBE7">34</text>
+  <text x="306" y="138" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="2" fill="#9A9CA3">REPOS</text>
+  <text x="414" y="114" text-anchor="middle" font-size="40" font-weight="700" letter-spacing="-1.2" fill="#ECEBE7">64</text>
+  <text x="414" y="138" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="2" fill="#9A9CA3">STARS</text>
+  <line x1="24" y1="164" x2="456" y2="164" stroke="#FFFFFF" stroke-opacity=".10"/>
+  <text x="24" y="184" font-size="10" font-weight="600" letter-spacing="1.4" fill="#9A9CA3">35 REPOS CONTRIBUTED TO · 4 APPS ON THE APP STORE</text>
 </svg>
